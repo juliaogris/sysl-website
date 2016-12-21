@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Sysl
 
-You can use the [editor on GitHub](https://github.com/ANZ-bank/Sysl-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sysl (pronounced "sizzle") is a system specification language. Using Sysl, you can specify systems, endpoints, endpoint behaviour, data models and data transformations. The Sysl compiler automatically generates sequence diagrams, integrations, and other views and also offers a range of code generation options, all from a common Sysl spec. The set of outputs is open-ended and will grow to support other representations in future.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ANZ-bank/Sysl-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Sysl on github](https://github.com/ANZ-bank/Sysl)
