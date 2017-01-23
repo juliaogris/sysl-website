@@ -1,0 +1,20 @@
+/** Style override to allow FA icon as testimonial image. */
+.testimonials .item .testimonial .name-picture .icon {
+    float: right;
+    width: 60px;
+    border-radius: 30px;
+    margin-left: 10px;
+    font-size: 3em
+}
+
+/** Fit logo images to navbar. */
+.navbar-header .navbar-brand.home img {
+    height: 100%;
+    display: inline-block;
+}
+
+/** Add text to logo. **/
+.navbar-header .navbar-brand.home {
+    font-size: 2em;
+    user-select: none;
+}
