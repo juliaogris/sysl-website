@@ -37,7 +37,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "Marcelo.Cantos@anz.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Sysl is a system specification language.</p>"
     copyright = "Copyright &copy; 2017"
 
     # Format dates with Go's time formatting
