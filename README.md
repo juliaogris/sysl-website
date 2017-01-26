@@ -1,2 +1,2 @@
 # sysl-website
-Website for the Sysl design language
+Website for the Sysl design language.
