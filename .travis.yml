@@ -1,0 +1,18 @@
+# See https://blog.christophvoigt.com/setting-up-hugo-with-github-pages/
+language: go
+
+branches:
+  only:
+    - develop
+
+env:
+  global:
+    secure: "H1RfnAEc5SYCRavKczGddXK/AdjgRPydYJ+Ubl5iYzaoBpUPCRXiJqxn1XdnuG05iK+B9IasYjgGS13kpFAb/0JXumfBjk+AfhOA3OsBFBwDLpucn2m3BdcEpxq6jM9Q7gdKDk6xvCJ2Nrv3SMAvrIIfjzu9CXVWAg1jSe+UFlHM+8YQjW41iRRyUiMUEbCYJjI4KOrFU7d5h5+MTMcdZBP0DLK1Cit8NyMzPtF1Zrhum+EHLfZS/Ai/EwOkEKJmmWqvt8hFDMwHg0ggiV0C7WlU/745oPypim+m1jhGxwz1JETFmTELyEO9OCVxexJ5omtkniaue5Gra5Hq9L1V0tKYLLeeFZqWc0H7WW0H4P7fUeJ8WAKjy6uySbU5ia/gm5kHamV+MS5HwuTSYSQUFdwxyo0P3jxyzR+drIzqMnRB4gGwlSAoGpnoDsMRe4a7esEnJ+qs672Hf6/9apZnFz/ds+Bhd6x9jjzl3N6LQopYpcmXIG+Zkry4Tku401btasUrGjjT3k3CYvKcSuvUeyYxvPeHO8W3h4qu4oWVUB179A+Na1u+dByOuSwQcy1W21nvTJApaAtxQpfVImH0cQfDBZGfPt1luv9/HFd+6JiDt34GD1CMh9KfLdZ66JcwDKXB9/e/FcmwJ0eZwEeye+gZ9+XRGNyYpXQ2EVN3omI="
+
+install:
+  - go get -v github.com/spf13/hugo  
+  - rm -rf public || exit 0
+script:  
+  - hugo
+  - cp .travis.yml public
+  - bash deploy.sh

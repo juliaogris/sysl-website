@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sysl</title>
+    <link>https://sysl.io/tags/info/index.xml</link>
+    <description>Recent content on Sysl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2017</copyright>
+    <atom:link href="https://sysl.io/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Sysl</title>
+      <link>https://sysl.io/about/</link>
+      <pubDate>Sat, 11 Apr 2015 17:53:10 +0100</pubDate>
+      
+      <guid>https://sysl.io/about/</guid>
+      <description>&lt;p&gt;Sysl (the System Specification Language) is a language to describe data models, systems and
+interactions between systems in a text-based, version-controlled single source of truth. It is also
+a tool to interpret those specifications and automatically generate design, build and test
+artefacts, such as UML diagrams, Excel spreadsheets and code.&lt;/p&gt;
+
+&lt;p&gt;Sysl is &lt;a href=&#34;https://github.com/anz-bank/sysl&#34;&gt;open source on GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
