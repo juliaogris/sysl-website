@@ -66,23 +66,34 @@ paginate = 10
 
 [[params.menu]]
     name = "About"
-    url  = "/about"
     weight = 2
 
-#[[params.menu]]
-#    name = "Blog"
-#    url  = "/blog/"
-#    weight = 2
+[[params.menu]]
+    name = "Documentation"
+    weight = 3
+
+    [[params.menu.items]]
+        name = "Getting Started"
+        url = "/docs/getting-started"
+
+    [[params.menu.items]]
+        name = "Bank Example"
+        url = "/docs/bank-example"
+
+[[params.menu]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 4
 
 [[params.menu]]
     name = "FAQ"
     url  = "/faq/"
-    weight = 3
+    weight = 5
 
 [[params.menu]]
     name = "Contact"
     url  = "/contact/"
-    weight = 4
+    weight = 6
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
