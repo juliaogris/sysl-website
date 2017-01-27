@@ -14,5 +14,5 @@ install:
   - rm -rf public || exit 0
 script:  
   - hugo
-  - cp .travis.yml public
+  - cp .travis.yml CNAME public
   - bash deploy.sh
