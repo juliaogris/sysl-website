@@ -1,4 +1,4 @@
-baseurl = "https://sysl.io/"
+baseurl = "https://anz-bank.github.io/sysl-website/"
 title = "Sysl"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
