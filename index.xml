@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sysl</title>
-    <link>https://sysl.io/index.xml</link>
+    <link>https://anz-bank.github.io/sysl-website/index.xml</link>
     <description>Recent content on Sysl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2017</copyright>
     <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
-    <atom:link href="https://sysl.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anz-bank.github.io/sysl-website/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sample Sysl blog post</title>
-      <link>https://sysl.io/blog/2015/06/24/sample-post/</link>
+      <link>https://anz-bank.github.io/sysl-website/blog/2015/06/24/sample-post/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://sysl.io/blog/2015/06/24/sample-post/</guid>
+      <guid>https://anz-bank.github.io/sysl-website/blog/2015/06/24/sample-post/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>About Sysl</title>
-      <link>https://sysl.io/about/</link>
+      <link>https://anz-bank.github.io/sysl-website/about/</link>
       <pubDate>Sat, 11 Apr 2015 17:53:10 +0100</pubDate>
       
-      <guid>https://sysl.io/about/</guid>
+      <guid>https://anz-bank.github.io/sysl-website/about/</guid>
       <description>&lt;p&gt;Sysl (the System Specification Language) is a language to describe data models, systems and
 interactions between systems in a text-based, version-controlled single source of truth. It is also
 a tool to interpret those specifications and automatically generate design, build and test
@@ -41,30 +41,30 @@ artefacts, such as UML diagrams, Excel spreadsheets and code.&lt;/p&gt;
     
     <item>
       <title>Example: Bank</title>
-      <link>https://sysl.io/docs/bank-example/</link>
+      <link>https://anz-bank.github.io/sysl-website/docs/bank-example/</link>
       <pubDate>Sat, 11 Apr 2015 17:53:10 +0100</pubDate>
       
-      <guid>https://sysl.io/docs/bank-example/</guid>
+      <guid>https://anz-bank.github.io/sysl-website/docs/bank-example/</guid>
       <description>&lt;p&gt;TODO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>https://sysl.io/docs/getting-started/</link>
+      <link>https://anz-bank.github.io/sysl-website/docs/getting-started/</link>
       <pubDate>Sat, 11 Apr 2015 17:53:10 +0100</pubDate>
       
-      <guid>https://sysl.io/docs/getting-started/</guid>
+      <guid>https://anz-bank.github.io/sysl-website/docs/getting-started/</guid>
       <description>&lt;p&gt;TODO&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://sysl.io/contact/</link>
+      <link>https://anz-bank.github.io/sysl-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sysl.io/contact/</guid>
+      <guid>https://anz-bank.github.io/sysl-website/contact/</guid>
       <description>
 
 &lt;h1 id=&#34;questions-comments-requests&#34;&gt;Questions? Comments? Requests?&lt;/h1&gt;
@@ -78,14 +78,14 @@ about how to use it or the user experience, let us know.&lt;/p&gt;
     
     <item>
       <title>FAQ</title>
-      <link>https://sysl.io/faq/</link>
+      <link>https://anz-bank.github.io/sysl-website/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sysl.io/faq/</guid>
+      <guid>https://anz-bank.github.io/sysl-website/faq/</guid>
       <description>
 
 &lt;p&gt;Here are some answers to some of the most common questions people have about Sysl. If this doesn&amp;rsquo;t
-answer your question, reach out to us on the &lt;a href=&#34;https://sysl.io/contact&#34;&gt;Contact page&lt;/a&gt;.&lt;/p&gt;
+answer your question, reach out to us on the &lt;a href=&#34;https://anz-bank.github.io/sysl-website/contact&#34;&gt;Contact page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;is-sysl-the-right-tool-for-me&#34;&gt;Is Sysl the right tool for me?&lt;/h2&gt;
 
@@ -102,7 +102,7 @@ everyone.&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;If your question has not been answered, reach out to us on the &lt;a href=&#34;https://sysl.io/contact&#34;&gt;Contact page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If your question has not been answered, reach out to us on the &lt;a href=&#34;https://anz-bank.github.io/sysl-website/contact&#34;&gt;Contact page&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
